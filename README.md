@@ -18,11 +18,11 @@ This workshop will be held on June 16, 2016.
 
 | Time                | Topic                                     | 
 | ------------------- | ----------------------------------------- | 
-| 8:00 AM - 8:15 AM   | Welcome, Introductions, and Logistics     |
-| 8:15 AM - 10:15 AM  | [R Basics](lessons/01_basics.md)          | 
-| 10:15 PM - 10:30 AM | *BREAK*                                   |
-| 10:30 AM - 12:00 PM | [Data in R](lessons/02_data.md)           |       
-| 12:00 PM - 1:00 PM  | *LUNCH*                                   |
+| 8:30 AM - 8:45 AM   | Welcome, Introductions, and Logistics     |
+| 8:45 AM - 10:45 AM  | [R Basics](lessons/01_basics.md)          | 
+| 10:45 PM - 11:00 AM | *BREAK*                                   |
+| 11:00 AM - 12:30 PM | [Data in R](lessons/02_data.md)           |       
+| 12:30 PM - 1:00 PM  | *LUNCH*                                   |
 | 1:00 PM - 3:00 PM   | [Data Viz](lessons/03_viz.md)             |
 
 
